@@ -13,7 +13,7 @@ The central question of the study was:
 
 High waiting times and long queues can deter potential customers, reducing sales and revenue. By strategically analyzing customer arrival patterns and service times, the study aims to improve operational efficiency and enhance customer satisfaction.
 
-![Alt-Text](/workspaces/Simulation-Project/Flowchart.jpeg)
+![Alt-Text](Flowchart.jpeg)
 
 ## **Approach & Methodology**
 

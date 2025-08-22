@@ -17,6 +17,7 @@ High waiting times and long queues can deter potential customers, reducing sales
 2. **Simulation Modeling:** Using Python and the `simpy` library, a simulation of the ice cream shop operations was created to test different configurations and scenarios.
 3. **Analysis:** Statistical analysis and visualization techniques (`pandas`, `numpy`, `matplotlib`, `seaborn`) were applied to identify patterns and evaluate the effectiveness of each configuration.
 4. **Optimization:** Different combinations of staffing and service strategies were simulated to find the configuration that maximizes throughput while minimizing wait times.
+   
 ![Alt-Text](Flowchart.jpeg.png)
 
 ## **Key Insights & Results**

@@ -2,18 +2,14 @@
 
 ## **Project Overview**
 
-This project explores the optimization of an ice cream shop’s operations using simulation and data analysis techniques. The goal was to identify the optimal configuration of the shop that minimizes customer waiting times, reduces queue length, and maximizes the number of customers served to ultimately increase revenue.
-
-## **Problem Statement**
+This university project explores the optimization of an ice cream shop’s operations using simulation and data analysis techniques. The goal was to identify the optimal configuration of the shop that minimizes customer waiting times, reduces queue length, and maximizes the number of customers served to ultimately increase revenue.
 
 The central question of the study was:
 
-> “What is the best configuration of the ice cream shop to reduce waiting time, shorten queues, and maximize customer throughput?”
+> What is the best configuration of the ice cream shop to reduce waiting time, shorten queues, and maximize customer throughput?
 > 
 
 High waiting times and long queues can deter potential customers, reducing sales and revenue. By strategically analyzing customer arrival patterns and service times, the study aims to improve operational efficiency and enhance customer satisfaction.
-
-![Alt-Text](Flowchart.jpeg.png)
 
 ## **Approach & Methodology**
 
@@ -21,6 +17,7 @@ High waiting times and long queues can deter potential customers, reducing sales
 2. **Simulation Modeling:** Using Python and the `simpy` library, a simulation of the ice cream shop operations was created to test different configurations and scenarios.
 3. **Analysis:** Statistical analysis and visualization techniques (`pandas`, `numpy`, `matplotlib`, `seaborn`) were applied to identify patterns and evaluate the effectiveness of each configuration.
 4. **Optimization:** Different combinations of staffing and service strategies were simulated to find the configuration that maximizes throughput while minimizing wait times.
+![Alt-Text](Flowchart.jpeg.png)
 
 ## **Key Insights & Results**
 

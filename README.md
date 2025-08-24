@@ -1,5 +1,7 @@
 # Simulation-Project
 
+👉 [View the Project Notebook](simulation_study.ipynb)
+
 ## **Project Overview**
 
 This university project explores the optimization of an ice cream shop’s operations using simulation and data analysis techniques. The goal was to identify the optimal configuration of the shop that minimizes customer waiting times, reduces queue length, and maximizes the number of customers served to ultimately increase revenue.
